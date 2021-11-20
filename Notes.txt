@@ -4,5 +4,12 @@
 
 
 
+
+
 -ERRORS
 -error thrown when process.env.PORT as a parameter in the app.listen method
+
+
+GIT]
+-Don't add, commit and push node modules
+-Create a .ignore so that it does not push these to API
