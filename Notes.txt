@@ -1,0 +1,8 @@
+-Store port value in .env file
+-One does not need to manually create a DB and a collection in the mongo interface
+- It is automatically created when you create a model in node
+
+
+
+-ERRORS
+-error thrown when process.env.PORT as a parameter in the app.listen method
